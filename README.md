@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <b>طالب مهندس دولة في علوم الحاسوب | مهتم بالأمن السيبراني، الذكاء الاصطناعي وتطوير الويب</b>
+  <b>State-certified engineering student in computer science | Interested in cybersecurity, artificial intelligence, and web development</b>
 </p>
 
 ---
@@ -45,8 +45,7 @@ I'm constantly learning new technologies and working to improve my skills every 
 
 ## 🌟 المشاريع المميزة (Featured Projects)
 
-### 🔥 All my projects are unique 
-^-^
+### 🔥All my projects are unique ^-^
 ---
 
 ## 📊 statistics GitHub
