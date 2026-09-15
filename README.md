@@ -1,29 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003B00,100:00FF41&height=220&section=header&text=YOUCEF%20ABD%20EL%20MOUAIZ&fontSize=42&fontColor=00FF41&fontAlignY=38&desc=Systems%20%7C%20Python%20%7C%20Linux&descAlignY=58&descSize=18&descColor=39FF14&animation=fadeIn" width="100%"/>
+<img src="https://raw.githubusercontent.com/Xyoucode/Xyoucode/main/assets/cyber-header.svg" width="100%"/>
+
+<br>
 
 <a href="https://github.com/Xyoucode">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=whoami+%3A+Youcef+Abd+El+Mouaiz;root%40Xyoucode%3A~%23+echo+%24SKILLS;Python+%7C+C+%7C+Linux+%7C+Bash;Building+things+that+run+on+the+metal." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=700&color=00FF41&center=true&vCenter=true&width=700&lines=%5Bsystem%5D+authenticating+user...;%5Bok%5D+welcome%2C+Youcef+Abd+El+Mouaiz;role+%3A+developer+%2F+systems+enthusiast;access+level+%3A+root" alt="Typing SVG" />
 </a>
+
+<br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Xyoucode&label=ACCESS+LOG&color=00FF41&style=for-the-badge&labelColor=000000)
+![Status](https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&labelColor=000000)
+![Open to work](https://img.shields.io/badge/OPEN_TO-OPPORTUNITIES-00FF41?style=for-the-badge&labelColor=000000)
 
 </div>
 
-<br>
+<img src="https://raw.githubusercontent.com/Xyoucode/Xyoucode/main/assets/security-divider.svg" width="100%"/>
 
 <img src="https://raw.githubusercontent.com/Xyoucode/Xyoucode/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
 
-<br>
+<img src="https://raw.githubusercontent.com/Xyoucode/Xyoucode/main/assets/security-divider.svg" width="100%"/>
 
-## &gt; system.info
+## &gt; whoami
 
 ```bash
-$ cat about_me.txt
+$ cat /etc/profile.conf
 ------------------------------------------------
- Name      : Youcef Abd El Mouaiz
- Handle    : @Xyoucode
- Role      : Developer / Systems enthusiast
- Focus     : Python, C, Linux internals
- Status    : Compiling knowledge...
+ name       : Youcef Abd El Mouaiz
+ handle     : @Xyoucode
+ role       : Developer / Systems enthusiast
+ focus      : Python, C, Linux internals
+ mindset    : build it, break it, understand it
+ status     : [####------] compiling knowledge...
 ------------------------------------------------
 ```
 
@@ -40,9 +49,63 @@ $ cat about_me.txt
 ![VSCode](https://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00FF41)
 ![Vim](https://img.shields.io/badge/-Vim-000000?style=for-the-badge&logo=vim&logoColor=00FF41)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=00FF41)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=00FF41)
 
 </div>
+
+## &gt; security_toolkit
+
+<div align="center">
+
+![Nmap](https://img.shields.io/badge/-Nmap-000000?style=for-the-badge&logo=nmap&logoColor=00FF41)
+![Wireshark](https://img.shields.io/badge/-Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00FF41)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00FF41)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-000000?style=for-the-badge&logoColor=00FF41)
+![OWASP](https://img.shields.io/badge/-OWASP-000000?style=for-the-badge&logo=owasp&logoColor=00FF41)
+
+</div>
+
+## &gt; currently_learning
+
+<div align="center">
+
+![Network Security](https://img.shields.io/badge/-Network%20Security-0D1117?style=flat-square&labelColor=000000&color=00FF41)
+![Penetration Testing](https://img.shields.io/badge/-Penetration%20Testing-0D1117?style=flat-square&labelColor=000000&color=00FF41)
+![System Internals](https://img.shields.io/badge/-System%20Internals-0D1117?style=flat-square&labelColor=000000&color=00FF41)
+
+</div>
+
+## &gt; featured_projects
+
+<table align="center">
+<tr>
+<td width="50%">
+
+```
+┌─[ project_01 ]───────────────┐
+│ PROJECT_NAME                 │
+│ short description of what    │
+│ it does and why it matters   │
+│                               │
+│ stack: Python · Linux        │
+└───────────────────────────────┘
+```
+</td>
+<td width="50%">
+
+```
+┌─[ project_02 ]───────────────┐
+│ PROJECT_NAME                 │
+│ short description of what    │
+│ it does and why it matters   │
+│                               │
+│ stack: C · Bash               │
+└───────────────────────────────┘
+```
+</td>
+</tr>
+</table>
+
+<div align="center"><sub>Update these two cards with your real project names, links, and stacks.</sub></div>
 
 ## &gt; stats.log
 
@@ -57,6 +120,8 @@ $ cat about_me.txt
 
 </div>
 
+<img src="https://raw.githubusercontent.com/Xyoucode/Xyoucode/main/assets/security-divider.svg" width="100%"/>
+
 ## &gt; connect
 
 <div align="center">
@@ -67,5 +132,7 @@ $ cat about_me.txt
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:003B00,100:000000&height=100&section=footer" width="100%"/>
+<div align="center">
+<sub>connection encrypted // end of transmission_</sub>
+</div>
 
