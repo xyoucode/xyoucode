@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Xyoucode/Xyoucode/main/assets/cyber-header.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Xyoucode/Xyoucode/main/assets/cyber-header-v2.svg" width="100%"/>
 
 <br>
 
 <a href="https://github.com/Xyoucode">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=700&color=00FF41&center=true&vCenter=true&width=700&lines=%5Bsystem%5D+authenticating+user...;%5Bok%5D+welcome%2C+Youcef+Abd+El+Mouaiz;role+%3A+developer+%2F+systems+enthusiast;access+level+%3A+root" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=700&color=00FF41&center=true&vCenter=true&width=700&lines=%5Bsystem%5D+authenticating+user...;%5Bok%5D+welcome%2C+Youcef+Abd+El+Mouaiz;role+%3A+developer+%2F+systems+enthusiast;clearance+%3A+root" alt="Typing SVG" />
 </a>
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Xyoucode&label=ACCESS+LOG&color=00FF41&style=for-the-badge&labelColor=000000)
+![Profile Views](https://komarev.com/ghpvc/?username=Xyoucode&label=ACCESS+LOG&color=FF1414&style=for-the-badge&labelColor=000000)
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&labelColor=000000)
 ![Open to work](https://img.shields.io/badge/OPEN_TO-OPPORTUNITIES-00FF41?style=for-the-badge&labelColor=000000)
 
@@ -56,11 +56,11 @@ $ cat /etc/profile.conf
 
 <div align="center">
 
-![Nmap](https://img.shields.io/badge/-Nmap-000000?style=for-the-badge&logo=nmap&logoColor=00FF41)
-![Wireshark](https://img.shields.io/badge/-Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00FF41)
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00FF41)
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-000000?style=for-the-badge&logoColor=00FF41)
-![OWASP](https://img.shields.io/badge/-OWASP-000000?style=for-the-badge&logo=owasp&logoColor=00FF41)
+![Nmap](https://img.shields.io/badge/-Nmap-000000?style=for-the-badge&logo=nmap&logoColor=FF1414)
+![Wireshark](https://img.shields.io/badge/-Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=FF1414)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=FF1414)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-000000?style=for-the-badge&logoColor=FF1414)
+![OWASP](https://img.shields.io/badge/-OWASP-000000?style=for-the-badge&logo=owasp&logoColor=FF1414)
 
 </div>
 
@@ -135,4 +135,5 @@ $ cat /etc/profile.conf
 <div align="center">
 <sub>connection encrypted // end of transmission_</sub>
 </div>
+
 
